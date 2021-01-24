@@ -1,7 +1,7 @@
-# hava_durumu_app_v1
+# flutter-hava_durumu_app_v1
 ## youtube.com/volkancelebi
 Flutter ile Basit hava durumu uygulaması
-![alt text](https://github.com/VolkanCelebi/flutter-hava-durumu-app/blob/main/assets/gece.png)
+
 ## Bu projede öğrenecekleriniz:
 
 Yükleme sayfası yapma
@@ -19,3 +19,5 @@ Konum bilgisi için izin isteme
 Ücretsiz bir hava durumu API si kullanma
 
 Json Decode etme
+![alt text](https://github.com/VolkanCelebi/flutter-hava-durumu-app/blob/main/assets/gece.png)
+
