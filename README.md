@@ -1,7 +1,7 @@
 # hava_durumu_app_v1
 
 Flutter ile Basit hava durumu uygulaması
-
+![alt text](https://github.com/VolkanCelebi/flutter-hava-durumu-app/blob/main/assets/gece.png)
 ## Getting Started
 
 Yükleme sayfası yapma
